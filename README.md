@@ -152,7 +152,7 @@ const miracle = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-reyimanuel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reyimanuel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[reyimanuel](https://www.linkedin.com/in/miraclesumajow/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraclesumajow/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miraclesumajow@gmail.com)
 
 </div>
